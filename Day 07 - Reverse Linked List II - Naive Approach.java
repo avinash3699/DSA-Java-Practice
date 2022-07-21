@@ -36,15 +36,12 @@ class Solution {
             temp = temp.next;
             count++;
             
-            System.out.println(list);
         }
         
         int listIndex = list.size() - 1;
         
         temp = head;
         count = 1;
-        
-        System.out.print(list);
         
         while(temp != null){
             
