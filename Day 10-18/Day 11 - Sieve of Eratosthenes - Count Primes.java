@@ -8,8 +8,9 @@ class Solution {
         if(n <= 3) return n-2;
         
         boolean[] isPrime = new boolean[n+1];
-        for(int index = 0; index < n+1; index++)
-            isPrime[index] = true;
+//         for(int index = 0; index < n+1; index++)
+//             isPrime[index] = true;
+        Arrays.fill(isPrime, true);
         
         for(int num = 2; num*num <= n; num++){
             
