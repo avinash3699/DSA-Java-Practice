@@ -18,6 +18,7 @@
 * [Binary Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Binary%20Search.java)
   * [Search Insert Position](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Search%20Insert%20Position.java)
   * [Find First and Last Position of Element in Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
+  * [Count of 1](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Count%20of%201.java)
 * [Ternary Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Ternary%20Search.java)
 * [Interpolation Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2005%20-%20Interpolation%20Search.java)
 * [Jump Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2005%20-%20Jump%20Search.java)
@@ -26,6 +27,7 @@
 * [Number of Matching Subsequences](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2006%20-%20Number%20of%20Matching%20Subsequences.java)
 * [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
 * [Find First and Last Position of Element in Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
+* [Count of 1](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Count%20of%201.java)
 * Subarray
   * [Maximum Subarray Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2001%20-%20Maximum%20Subarray%20Sum%20-%20Kadane's%20Algorithm.java)
   * [Subarray Sum Equals 0](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Subarray%20Sum%20Equals%200.java)
