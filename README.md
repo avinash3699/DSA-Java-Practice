@@ -39,6 +39,7 @@
 * [Reverse Linked List from position left to position right](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2007%20-%20Reverse%20Linked%20List%20II.java)
 * [Partition List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2008%20-%20Partition%20List.java)
 * [Convert Binary Number in a Linked List to Integer](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java)
+* [Middle of the Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2012%20-%20Middle%20of%20the%20Linked%20List%20(Slow%20and%20Fast%20Pointer%20approach).java)
 
 ## Binary Tree
 * [Root Equals Sum of Children](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Root%20Equals%20Sum%20of%20Children.java)
