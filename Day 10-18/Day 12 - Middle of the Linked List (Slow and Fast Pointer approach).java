@@ -1,4 +1,4 @@
-// Leetcode Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+// Leetcode Problem Link: https://leetcode.com/problems/middle-of-the-linked-list/
 
 // Slow, Fast Pointer Approach
 
