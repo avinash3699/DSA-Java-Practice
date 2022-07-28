@@ -35,6 +35,7 @@
   * [Maximum Subarray Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2001%20-%20Maximum%20Subarray%20Sum%20-%20Kadane's%20Algorithm.java)
   * [Subarray Sum Equals 0](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Subarray%20Sum%20Equals%200.java)
   * [Subarray Sum Equals K](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Subarray%20Sum%20Equals%20K.java)
+* [Subrectangle Queries](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Subrectangle%20Queries.java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
