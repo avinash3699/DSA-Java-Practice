@@ -7,6 +7,7 @@
 * [Boyer-Moore Majority Voting Algorithm N/2](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2008%20-%20Majority%20Element%20(Boyer-Moore%20Majority%20Voting%20Algorithm).java) (N/2 Majority Element)
 * [Boyer-Moore Majority Voting Algorithm N/3](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2008%20-%20Majority%20Element%20II%20(Boyer-Moore%20Majority%20Voting%20Algorithm).java) (N/3 Majority Element) 
 * [Sieve of Eratosthenes](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Sieve%20of%20Eratosthenes%20-%20Count%20Primes.java)
+* [Brian Kernighan’s Algorithm](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits%20-%20%20Brian%20Kernighan%E2%80%99s%20Algorithm.java) (Count Set Bits) (Hamming Weight)
 
 ## Sorting
 * [Quick Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2003%20-%20Quick%20Sort.java)
