@@ -38,6 +38,7 @@
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
+* [Valid Anagram](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Valid%20Anagram.java)
 
 ## Bit Manipulation
 * [Number of 1 Bits](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits.java) (Hamming Weight)
