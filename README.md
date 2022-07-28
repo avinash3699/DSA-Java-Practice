@@ -38,6 +38,9 @@
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
 
+## Bit Manipulation
+* [Number of 1 Bits](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits.java) (Hamming Weight)
+
 ## Linked List
 * [Reverse Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2007%20-%20Reverse%20Linked%20List.java)
 * [Reverse Linked List from position left to position right](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2007%20-%20Reverse%20Linked%20List%20II.java)
