@@ -21,6 +21,7 @@
   * [Search Insert Position](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Search%20Insert%20Position.java)
   * [Find First and Last Position of Element in Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
   * [Count of 1](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Count%20of%201.java)
+  * [First Bad Version](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2015%20-%20First%20Bad%20Version.java)
 * [Ternary Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Ternary%20Search.java)
 * [Interpolation Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2005%20-%20Interpolation%20Search.java)
 * [Jump Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2005%20-%20Jump%20Search.java)
@@ -52,6 +53,7 @@
 * [Middle of the Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2012%20-%20Middle%20of%20the%20Linked%20List%20(Slow%20and%20Fast%20Pointer%20approach).java)
 * [Delete Node in a Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2012%20-%20Delete%20Node%20in%20a%20Linked%20List.java)
 * [Remove Nth Node From End of List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Remove%20Nth%20Node%20From%20End%20of%20List.java)
+* [Remove Duplicates from Sorted List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2015%20-%20Remove%20Duplicates%20from%20Sorted%20List.java)
 
 ## Binary Tree
 * [Root Equals Sum of Children](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Root%20Equals%20Sum%20of%20Children.java)
