@@ -45,6 +45,9 @@
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
+* Implement Queue using Stacks
+  * [costly enQueue operation](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Implement%20Queue%20using%20Stacks.java) Time Complexity - Push operation: O(N), Pop operation: O(1)
+  * [costly deQueue operation](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Implement%20Queue%20using%20Stacks%20-%20II.java) Time Complexity - Push operation: O(1), Pop operation: O(N) in general and O(1) amortized time complexity
 
 ## Bit Manipulation
 * [Number of 1 Bits](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits.java) (Hamming Weight)
