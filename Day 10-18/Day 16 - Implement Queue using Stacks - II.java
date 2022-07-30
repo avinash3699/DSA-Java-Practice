@@ -1,4 +1,5 @@
 // Leetcode Problem Link: https://leetcode.com/problems/implement-queue-using-stacks/
+// Explanation(English): https://www.youtube.com/watch?v=3Et9MrMc02A
 
 class MyQueue {
 
