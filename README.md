@@ -8,6 +8,7 @@
 * [Boyer-Moore Majority Voting Algorithm N/3](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2008%20-%20Majority%20Element%20II%20(Boyer-Moore%20Majority%20Voting%20Algorithm).java) (N/3 Majority Element) 
 * [Sieve of Eratosthenes](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Sieve%20of%20Eratosthenes%20-%20Count%20Primes.java)
 * [Brian Kernighan’s Algorithm](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits%20-%20%20Brian%20Kernighan%E2%80%99s%20Algorithm.java) (Count Set Bits) (Hamming Weight)
+* [Floyd’s Cycle-Finding Algorithm](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Linked%20List%20Cycle%20-%20Floyd%E2%80%99s%20Cycle-Finding%20Algorithm.java) (Detect cycle in Linked list)
 
 ## Sorting
 * [Quick Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2003%20-%20Quick%20Sort.java)
@@ -61,6 +62,9 @@
 * [Delete Node in a Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2012%20-%20Delete%20Node%20in%20a%20Linked%20List.java)
 * [Remove Nth Node From End of List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Remove%20Nth%20Node%20From%20End%20of%20List.java)
 * [Remove Duplicates from Sorted List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2015%20-%20Remove%20Duplicates%20from%20Sorted%20List.java)
+* Linked List Cycle
+  * [Floyd’s Cycle-Finding Algorithm](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Linked%20List%20Cycle%20-%20Floyd%E2%80%99s%20Cycle-Finding%20Algorithm.java)
+  * [Using Hash Table](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Linked%20List%20Cycle.java)
 
 ## Binary Tree
 * [Root Equals Sum of Children](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Root%20Equals%20Sum%20of%20Children.java)
