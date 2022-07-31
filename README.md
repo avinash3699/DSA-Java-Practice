@@ -39,6 +39,7 @@
   * [Subarray Sum Equals K](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Subarray%20Sum%20Equals%20K.java)
 * [Subrectangle Queries](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Subrectangle%20Queries.java)
 * [Two Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2015%20-%20Two%20Sum.java)
+* [Merge Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2017%20-%20Merge%20Sorted%20Array.java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
