@@ -65,6 +65,7 @@
 * Linked List Cycle
   * [Floyd’s Cycle-Finding Algorithm](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Linked%20List%20Cycle%20-%20Floyd%E2%80%99s%20Cycle-Finding%20Algorithm.java)
   * [Using Hash Table](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Linked%20List%20Cycle.java)
+* [Merge Two Sorted Lists](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2017%20-%20Merge%20Two%20Sorted%20Lists.java)
 
 ## Binary Tree
 * [Root Equals Sum of Children](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Root%20Equals%20Sum%20of%20Children.java)
