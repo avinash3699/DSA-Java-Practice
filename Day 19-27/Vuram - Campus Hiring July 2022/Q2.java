@@ -1,3 +1,16 @@
+// Given an array 'arr'. Identify the triplets whose difference is 3.
+
+// Input:
+// arr = [1, 2, 4, 5, 7, 8, 10]
+
+// Output:
+// 1 4 7
+// 2 5 8
+// 4 7 10
+
+// Explanation:
+// The difference between 1 and 4 is 3, 4 and 7 is three. Hence, it is printed
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
