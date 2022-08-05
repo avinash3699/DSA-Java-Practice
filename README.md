@@ -40,6 +40,9 @@
 * [Subrectangle Queries](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Subrectangle%20Queries.java)
 * [Two Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2015%20-%20Two%20Sum.java)
 * [Merge Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2017%20-%20Merge%20Sorted%20Array.java)
+* Rotate Array
+  * [extra array logic](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Rotate%20Array%20(extra%20array%20logic).java)
+  * [reverse logic](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Rotate%20Array%20(reverse%20logic).java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
