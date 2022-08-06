@@ -86,6 +86,7 @@
 ## Mathematics
 * [Find the Closest Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Find%20the%20Closest%20Palindrome.java)
 * [Fibonacci number or not](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Fibonacci%20number%20or%20not.java)
+* [Greatest Common Divisor (GCD)](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20GCD.java)
 
 ___
 ## Coding Round Questions
