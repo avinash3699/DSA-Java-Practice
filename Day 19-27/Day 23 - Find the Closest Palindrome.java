@@ -24,14 +24,15 @@ class Solution {
         
         Long num = Long.valueOf(n);
         
-        long comp1 = (long)Math.pow(10, n.length() - 1) - 1;
-        long comp2 = (long)Math.pow(10, n.length() ) + 1;
+        // input: 12345
+        long comp1 = (long)Math.pow(10, n.length() - 1) - 1; //9999
+        long comp2 = (long)Math.pow(10, n.length() ) + 1; //100001
         
         long firstHalf = (long) (num / (Math.pow(10, n.length()/2)));
         
-        long comp3 = getPalindromeFromHalf(firstHalf - 1, n.length());
-        long comp4 = getPalindromeFromHalf(firstHalf, n.length());
-        long comp5 = getPalindromeFromHalf(firstHalf + 1, n.length());
+        long comp3 = getPalindromeFromHalf(firstHalf - 1, n.length()); //12221
+        long comp4 = getPalindromeFromHalf(firstHalf, n.length()); //12321
+        long comp5 = getPalindromeFromHalf(firstHalf + 1, n.length()); //12421
         
         long minPalindrome = Long.MAX_VALUE;
         long minPalindromeDiff = Long.MAX_VALUE;
