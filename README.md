@@ -83,6 +83,10 @@
 ## Binary Search Tree (BST)
 * [Search in a Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Search%20in%20a%20Binary%20Search%20Tree.java)
 
+## Mathematics
+* [Find the Closest Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Find%20the%20Closest%20Palindrome.java)
+* [Fibonacci number or not](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Fibonacci%20number%20or%20not.java)
+
 ___
 ## Coding Round Questions
 * [Zoho Summer Intern - Campus Hiring Mar 2022](https://github.com/avinash3699/DSA-Java-Practice/tree/main/Day%2019-27/Zoho%20Summer%20Intern%20-%20Campus%20Hiring%20Mar%202022)
