@@ -79,6 +79,8 @@
   * [In-order](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2013%20-%20Binary%20Tree%20Inorder%20Traversal.java)
   * [Post-order](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2013%20-%20Binary%20Tree%20Postorder%20Traversal.java)
   * [Level-order](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Binary%20Tree%20Level%20Order%20Traversal.java)
+* [Invert Binary Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2025%20-%20Invert%20Binary%20Tree.java)
+* [Maximum Depth of Binary Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2025%20-%20Maximum%20Depth%20of%20Binary%20Tree.java)
 
 ## Binary Search Tree (BST)
 * [Search in a Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Search%20in%20a%20Binary%20Search%20Tree.java)
