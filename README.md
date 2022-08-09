@@ -16,6 +16,7 @@
 * [Bubble Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2006%20-%20Bubble%20Sort.java)
 * [Selection Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2006%20-%20Selection%20Sort.java)
 * [Stable Selection Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Stable%20Selection%20Sort.java)
+* [Insertion Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Insertion%20Sort.java)
 
 ## Searching
 * [Linear Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Linear%20Search.java)
