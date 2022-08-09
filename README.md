@@ -15,6 +15,7 @@
 * [3-Way Quick Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2003%20-%20QuickSort%20using%20the%20Dutch%20National%20Flag%20algorithm%20(3-Way%20Quicksort).java) (Quick Sort using DNF Algorithm)
 * [Bubble Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2006%20-%20Bubble%20Sort.java)
 * [Selection Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2006%20-%20Selection%20Sort.java)
+* [Stable Selection Sort](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Stable%20Selection%20Sort.java)
 
 ## Searching
 * [Linear Search](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2004%20-%20Linear%20Search.java)
