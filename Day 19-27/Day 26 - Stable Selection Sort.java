@@ -3,12 +3,12 @@
 class Solution {
     public int[] sortArray(int[] array) {
             
-        selectionSort(array);
+        stableSelectionSort(array);
         return array;
         
     }
     
-    public static void selectionSort(int[] arr){
+    public static void stableSelectionSort(int[] arr){
         
         int arrLength = arr.length;
         
