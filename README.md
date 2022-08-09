@@ -89,9 +89,3 @@
 * [Find the Closest Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Find%20the%20Closest%20Palindrome.java)
 * [Fibonacci number or not](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Fibonacci%20number%20or%20not.java)
 * [Greatest Common Divisor (GCD)](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20GCD.java)
-
-___
-## Coding Round Questions
-* [Zoho Summer Intern - Campus Hiring Mar 2022](https://github.com/avinash3699/DSA-Java-Practice/tree/main/Day%2019-27/Zoho%20Summer%20Intern%20-%20Campus%20Hiring%20Mar%202022)
-* [Vuram - Campus Hiring July 2022](https://github.com/avinash3699/DSA-Java-Practice/tree/main/Day%2019-27/Vuram%20-%20Campus%20Hiring%20July%202022)
-* [IBM Round 1 - Campus Hiring July 2022](https://github.com/avinash3699/DSA-Java-Practice/tree/main/Day%2010-18/IBM%20Round%201%20-%20Campus%20Hiring%202022)
