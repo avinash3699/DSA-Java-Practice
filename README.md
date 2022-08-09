@@ -29,7 +29,6 @@
 
 ## Array
 * [Number of Matching Subsequences](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2006%20-%20Number%20of%20Matching%20Subsequences.java)
-* [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
 * [Find First and Last Position of Element in Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
 * [Count of 1](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2011%20-%20Count%20of%201.java)
 * [Squares of a Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Squares%20of%20a%20Sorted%20Array.java)
@@ -43,6 +42,11 @@
 * Rotate Array
   * [extra array logic](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Rotate%20Array%20(extra%20array%20logic).java)
   * [reverse logic](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Rotate%20Array%20(reverse%20logic).java)
+* [Find Pivot Index](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Find%20Pivot%20Index.java)
+
+## Matrix
+* [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
+* [Layer Printing](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Matrix%20Layer%20Printing.java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
