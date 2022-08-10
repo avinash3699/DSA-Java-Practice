@@ -90,6 +90,7 @@
 
 ## Binary Search Tree (BST)
 * [Search in a Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Search%20in%20a%20Binary%20Search%20Tree.java)
+* [Convert Sorted Array to Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2027%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java)
 
 ## Mathematics
 * [Find the Closest Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Find%20the%20Closest%20Palindrome.java)
