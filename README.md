@@ -91,8 +91,12 @@
 ## Binary Search Tree (BST)
 * [Search in a Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Search%20in%20a%20Binary%20Search%20Tree.java)
 * [Convert Sorted Array to Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2027%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java)
+* [Lowest Common Ancestor of a Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2029%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)
 
-## Mathematics
+## Mathematics/Numbers
 * [Find the Closest Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Find%20the%20Closest%20Palindrome.java)
 * [Fibonacci number or not](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20Fibonacci%20number%20or%20not.java)
 * [Greatest Common Divisor (GCD)](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2023%20-%20GCD.java)
+* Sqrt(x)
+  * [Newton’s method](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2029%20-%20Sqrt(x)%20Newton%E2%80%99s%20method.java)
+  * [Bruteforce](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2029%20-%20Sqrt(x).java)
