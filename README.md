@@ -53,6 +53,7 @@
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
 * [Valid Anagram](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Valid%20Anagram.java)
+* [First Unique Character in a String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2031%20-%20First%20Unique%20Character%20in%20a%20String.java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
