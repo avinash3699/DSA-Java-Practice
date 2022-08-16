@@ -101,3 +101,4 @@
 * Sqrt(x)
   * [Newton’s method](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2029%20-%20Sqrt(x)%20Newton%E2%80%99s%20method.java)
   * [Bruteforce](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2029%20-%20Sqrt(x).java)
+* [Count Odd Numbers in an Interval Range](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2031%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java)
