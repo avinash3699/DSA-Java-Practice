@@ -105,3 +105,4 @@
   * [Bruteforce](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2029%20-%20Sqrt(x).java)
 * [Count Odd Numbers in an Interval Range](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2031%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java)
 * [Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2033%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.java)
+* [Largest Perimeter Triangle](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2033%20-%20Largest%20Perimeter%20Triangle.java)
