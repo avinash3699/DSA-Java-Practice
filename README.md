@@ -54,8 +54,11 @@
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
+* [Reverse Words in a String III](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Reverse%20Words%20in%20a%20String%20III.java)
 * [Valid Anagram](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Valid%20Anagram.java)
 * [First Unique Character in a String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2031%20-%20First%20Unique%20Character%20in%20a%20String.java)
+* Check if One String Swap Can Make Strings Equal
+  * [Bruteforce](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
@@ -106,3 +109,6 @@
 * [Count Odd Numbers in an Interval Range](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2031%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java)
 * [Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2033%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.java)
 * [Largest Perimeter Triangle](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2033%20-%20Largest%20Perimeter%20Triangle.java)
+* [Can Make Arithmetic Progression From Sequence](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.java)
+* [Happy Number](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Happy%20Number.java)
+* [Sign of the Product of an Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Sign%20of%20the%20Product%20of%20an%20Array.java)
