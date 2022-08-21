@@ -86,6 +86,11 @@
   * [Using Hash Table](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Linked%20List%20Cycle.java)
 * [Merge Two Sorted Lists](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2017%20-%20Merge%20Two%20Sorted%20Lists.java)
 
+## Tree
+* N-ary Tree Preorder Traversal
+  * [Simple Recursion](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2036%20-%20N-ary%20Tree%20Preorder%20Traversal.java)
+  * [Iterative - Stack](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2036%20-%20N-ary%20Tree%20Preorder%20Traversal%20-%20Stack.java)
+
 ## Binary Tree
 * [Root Equals Sum of Children](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Root%20Equals%20Sum%20of%20Children.java)
 * [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.java)
