@@ -39,6 +39,7 @@
   * [Maximum Subarray Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2001%20-%20Maximum%20Subarray%20Sum%20-%20Kadane's%20Algorithm.java)
   * [Subarray Sum Equals 0](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Subarray%20Sum%20Equals%200.java)
   * [Subarray Sum Equals K](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Subarray%20Sum%20Equals%20K.java)
+  * [Sum of All Odd Length Subarrays](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2036%20-%20Sum%20of%20All%20Odd%20Length%20Subarrays.java)
 * [Subrectangle Queries](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Subrectangle%20Queries.java)
 * [Two Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2015%20-%20Two%20Sum.java)
 * [Merge Sorted Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2017%20-%20Merge%20Sorted%20Array.java)
@@ -51,6 +52,7 @@
 ## Matrix
 * [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
 * [Layer Printing](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Matrix%20Layer%20Printing.java)
+* [Richest Customer Wealth](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2036%20-%20Richest%20Customer%20Wealth.java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
