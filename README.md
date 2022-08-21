@@ -48,6 +48,7 @@
   * [reverse logic](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Rotate%20Array%20(reverse%20logic).java)
 * [Find Pivot Index](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Find%20Pivot%20Index.java)
 * [Move Zeroes](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2033%20-%20Move%20Zeroes.java)
+* [Next Greater Element I](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2035%20-%20Next%20Greater%20Element%20I.java)
 
 ## Matrix
 * [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
