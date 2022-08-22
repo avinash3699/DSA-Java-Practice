@@ -54,6 +54,8 @@
 * [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
 * [Layer Printing](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Matrix%20Layer%20Printing.java)
 * [Richest Customer Wealth](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2036%20-%20Richest%20Customer%20Wealth.java)
+* [Matrix Diagonal Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2037%20-%20Matrix%20Diagonal%20Sum.java)
+* [Reshape the Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2037%20-%20Reshape%20the%20Matrix.java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
@@ -71,6 +73,7 @@
 
 ## Bit Manipulation
 * [Number of 1 Bits](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits.java) (Hamming Weight)
+* [Power of Four](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2037%20-%20Power%20of%20Four%20-%20Bit%20Manipulation.java)
 
 ## Linked List
 * [Reverse Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2007%20-%20Reverse%20Linked%20List.java)
