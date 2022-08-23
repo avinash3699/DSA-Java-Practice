@@ -64,6 +64,8 @@
 * [First Unique Character in a String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2031%20-%20First%20Unique%20Character%20in%20a%20String.java)
 * Check if One String Swap Can Make Strings Equal
   * [Bruteforce](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.java)
+* [Goal Parser Interpretation](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2038%20-%20Goal%20Parser%20Interpretation.java)
+* [Merge Strings Alternately](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2038%20-%20Merge%20Strings%20Alternately.java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
@@ -74,6 +76,7 @@
 ## Bit Manipulation
 * [Number of 1 Bits](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Number%20of%201%20Bits.java) (Hamming Weight)
 * [Power of Four](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2037%20-%20Power%20of%20Four%20-%20Bit%20Manipulation.java)
+* [Find the Difference](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2038%20-%20Find%20the%20Difference.java)
 
 ## Linked List
 * [Reverse Linked List](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2007%20-%20Reverse%20Linked%20List.java)
