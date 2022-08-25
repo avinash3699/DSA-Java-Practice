@@ -131,3 +131,4 @@
 * [Can Make Arithmetic Progression From Sequence](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.java)
 * [Happy Number](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Happy%20Number.java)
 * [Sign of the Product of an Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Sign%20of%20the%20Product%20of%20an%20Array.java)
+* [Power of Three](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2039%20-%20Power%20of%20Three.java)
