@@ -56,6 +56,7 @@
 * [Richest Customer Wealth](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2036%20-%20Richest%20Customer%20Wealth.java)
 * [Matrix Diagonal Sum](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2037%20-%20Matrix%20Diagonal%20Sum.java)
 * [Reshape the Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2037%20-%20Reshape%20the%20Matrix.java)
+* [Check If It Is a Straight Line](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2040%20-%20Check%20If%20It%20Is%20a%20Straight%20Line.java)
   
 ## String
 * [Reverse String](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2014%20-%20Reverse%20String.java)
@@ -66,6 +67,9 @@
   * [Bruteforce](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2034%20-%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.java)
 * [Goal Parser Interpretation](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2038%20-%20Goal%20Parser%20Interpretation.java)
 * [Merge Strings Alternately](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2038%20-%20Merge%20Strings%20Alternately.java)
+* [Ransom Note](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2040%20-%20Ransom%20Note.java)
+* [To Lower Case](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2039%20-%20To%20Lower%20Case.java)
+* [Decrypt String from Alphabet to Integer Mapping](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2039%20-%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
@@ -107,6 +111,7 @@
   * [Level-order](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2021%20-%20Binary%20Tree%20Level%20Order%20Traversal.java)
 * [Invert Binary Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2025%20-%20Invert%20Binary%20Tree.java)
 * [Maximum Depth of Binary Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2025%20-%20Maximum%20Depth%20of%20Binary%20Tree.java)
+* [Sum of Left Leaves](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2040%20-%20Sum%20of%20Left%20Leaves.java)
 
 ## Binary Search Tree (BST)
 * [Search in a Binary Search Tree](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2001-09/Day%2009%20-%20Search%20in%20a%20Binary%20Search%20Tree.java)
