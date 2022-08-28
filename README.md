@@ -72,6 +72,8 @@
 * [Decrypt String from Alphabet to Integer Mapping](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2039%20-%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.java)
 * [Check if the Sentence Is Pangram](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2043%20-%20Check%20if%20the%20Sentence%20Is%20Pangram.java)
 * [Decode the Message](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2043%20-%20Decode%20the%20Message.java)
+* [Length of Last Word](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2042%20-%20Length%20of%20Last%20Word.java)
+* [Valid Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2042%20-%20Valid%20Palindrome.java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
