@@ -70,6 +70,8 @@
 * [Ransom Note](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2040%20-%20Ransom%20Note.java)
 * [To Lower Case](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2039%20-%20To%20Lower%20Case.java)
 * [Decrypt String from Alphabet to Integer Mapping](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2039%20-%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.java)
+* [Check if the Sentence Is Pangram](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2043%20-%20Check%20if%20the%20Sentence%20Is%20Pangram.java)
+* [Decode the Message](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2043%20-%20Decode%20the%20Message.java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
