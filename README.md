@@ -49,6 +49,7 @@
 * [Find Pivot Index](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2019-27/Day%2026%20-%20Find%20Pivot%20Index.java)
 * [Move Zeroes](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2033%20-%20Move%20Zeroes.java)
 * [Next Greater Element I](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2028-36/Day%2035%20-%20Next%20Greater%20Element%20I.java)
+* [Monotonic Array](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2044%20-%20Monotonic%20Array.java)
 
 ## Matrix
 * [Search a 2D Matrix](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2010%20-%20Search%20a%202D%20Matrix%20II.java)
@@ -74,6 +75,7 @@
 * [Decode the Message](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2043%20-%20Decode%20the%20Message.java)
 * [Length of Last Word](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2042%20-%20Length%20of%20Last%20Word.java)
 * [Valid Palindrome](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2042%20-%20Valid%20Palindrome.java)
+* [Implement strStr()](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2037-45/Day%2044%20-%20Implement%20strStr().java)
 
 ## Stack
 * [Valid Parentheses](https://github.com/avinash3699/DSA-Java-Practice/blob/main/Day%2010-18/Day%2016%20-%20Valid%20Parentheses.java)
